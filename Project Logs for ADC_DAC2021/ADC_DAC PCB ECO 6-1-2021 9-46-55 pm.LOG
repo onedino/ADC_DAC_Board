@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DAC_DIN Pin=U11-12
+Removed Pin From Net: NetName=DAC_SYNC Pin=U11-14
+Added Pin To Net: NetName=DAC_SYNC Pin=U11-12
+Added Pin To Net: NetName=DAC_DIN Pin=U11-14
+Added Pin To Net: NetName=DAC_SYNC Pin=U13-10

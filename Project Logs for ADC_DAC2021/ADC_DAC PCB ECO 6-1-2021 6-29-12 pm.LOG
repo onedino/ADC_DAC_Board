@@ -1,0 +1,18 @@
+Added Component: Designator=L4(DR331-105BE)
+Added Component: Designator=L5(DR331-105BE)
+Added Component: Designator=L8(DR331-105BE)
+Added Pin To Net: NetName=24VA Pin=L4-1
+Added Pin To Net: NetName=AGND Pin=L4-2
+Added Pin To Net: NetName=DT_GND1 Pin=L4-3
+Added Pin To Net: NetName=NetC53_2 Pin=L4-4
+Added Pin To Net: NetName=24VA Pin=L5-1
+Added Pin To Net: NetName=AGND Pin=L5-2
+Added Pin To Net: NetName=DT_GND2 Pin=L5-3
+Added Pin To Net: NetName=NetC54_2 Pin=L5-4
+Added Pin To Net: NetName=24VA Pin=L8-1
+Added Pin To Net: NetName=AGND Pin=L8-2
+Added Pin To Net: NetName=DT_GND1 Pin=L8-3
+Added Pin To Net: NetName=NetC59_2 Pin=L8-4
+Added Member To Class: ClassName=U_ADC Member=Component L4 DR331-105BE
+Added Member To Class: ClassName=U_ADC Member=Component L5 DR331-105BE
+Added Member To Class: ClassName=U_DAC Member=Component L8 DR331-105BE

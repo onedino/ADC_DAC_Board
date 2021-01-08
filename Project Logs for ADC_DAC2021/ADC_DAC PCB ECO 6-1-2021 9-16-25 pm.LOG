@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AGND Pin=C30-1
+Removed Pin From Net: NetName=10VA Pin=C30-2
+Removed Pin From Net: NetName=AGND Pin=C31-1
+Removed Pin From Net: NetName=10VA Pin=C31-2
+Removed Member From Class: ClassName=U_ADC Member=C30
+Removed Member From Class: ClassName=U_ADC Member=C31

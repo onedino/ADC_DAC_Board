@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=L2 Old Footprint=INDC_TYA4012 New Footprint=INDC1608N
+Change Component Footprint: Designator=L3 Old Footprint=INDC_TYA4012 New Footprint=INDC1608N
+Change Component Comment : Designator=L2 Old Comment=TYA40122R2M New Comment=BLM18SP601SN1D
+Change Component Comment : Designator=L3 Old Comment=TYA40122R2M New Comment=BLM18SP601SN1D
+Change component parameters: Designator = "L2" ("L2"); Footprint = "INDC_TYA4012"; UniqueID = "\PETFPAER\UDXMFLJK" ("\PETFPAER\UDXMFLJK")
+Change component parameters: Designator = "L3" ("L3"); Footprint = "INDC_TYA4012"; UniqueID = "\PETFPAER\CWDNOPYA" ("\PETFPAER\CWDNOPYA")

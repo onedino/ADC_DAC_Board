@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DAC0 Pin=U12-1
+Removed Pin From Net: NetName=NetR26_1 Pin=U12-2
+Removed Pin From Net: NetName=DAC_OUT0 Pin=U12-3
+Removed Pin From Net: NetName=DAC_OUT1 Pin=U12-5
+Removed Pin From Net: NetName=NetR28_1 Pin=U12-6
+Removed Pin From Net: NetName=DAC1 Pin=U12-7
+Added Pin To Net: NetName=DAC1 Pin=U12-1
+Added Pin To Net: NetName=NetR28_1 Pin=U12-2
+Added Pin To Net: NetName=DAC_OUT1 Pin=U12-3
+Added Pin To Net: NetName=DAC_OUT0 Pin=U12-5
+Added Pin To Net: NetName=NetR26_1 Pin=U12-6
+Added Pin To Net: NetName=DAC0 Pin=U12-7

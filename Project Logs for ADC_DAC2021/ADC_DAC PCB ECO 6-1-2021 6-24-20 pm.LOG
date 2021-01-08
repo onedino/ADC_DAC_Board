@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=DT-PWR1 Pin=F3-2
+Change Component Designator: OldDesignator=C? NewDesignator=C59
+Added Component: Designator=UART1(HDR1X4_2.54MMP)
+Added Pin To Net: NetName=DAC-PWR1 Pin=DAC2-1
+Added Pin To Net: NetName=DAC-PWR1 Pin=DAC3-1
+Added Pin To Net: NetName=DAC-PWR1 Pin=DAC4-1
+Added Pin To Net: NetName=DAC-PWR1 Pin=F3-2
+Added Pin To Net: NetName=5VD Pin=UART1-1
+Added Pin To Net: NetName=UART1_TX Pin=UART1-2
+Added Pin To Net: NetName=UART1_RX Pin=UART1-3
+Added Pin To Net: NetName=DGND Pin=UART1-4
+Added Pin To Net: NetName=NetC59_2 Pin=C59-2
+Added Pin To Net: NetName=NetC59_2 Pin=F3-1
+Added Net: Name=NetC59_2
+Added Member To Class: ClassName=U_STM32F405 Member=Component UART1 Programmer
