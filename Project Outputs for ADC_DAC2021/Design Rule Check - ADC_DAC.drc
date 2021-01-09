@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Altium_project\ADC_DAC_Board\ADC_DAC.PcbDoc
-Date     : 8/1/2021
-Time     : 11:30:54 pm
+Date     : 9/1/2021
+Time     : 7:18:40 pm
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -10,7 +10,9 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net DAC-PWR1 Between Pad DAC1-1(89.8mm,79.51mm) on Multi-Layer And Track (91.65mm,90.35mm)(91.65mm,90.4mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net 5VA Between Pad L3-4(98.3mm,52.35mm) on Top Layer [Unplated] And Via (98.3mm,58.35mm) from Top Layer to Bottom Layer 
+Rule Violations :2
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -25,24 +27,30 @@ Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.05mm) (All),(All)
-Rule Violations :0
+   Violation between Hole To Hole Clearance Constraint: (Collision < 0.05mm) Between Via (92.4mm,74.2mm) from Top Layer to Bottom Layer And Via (92.4mm,74.4mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
+Rule Violations :1
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.05mm) (IsPad),(All)
-Rule Violations :0
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.05mm) Between Pad L2-4(97.7mm,58.35mm) on Top Layer And Text "L3" (96.938mm,57.178mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.033mm < 0.05mm) Between Pad UART1-3(63.54mm,32.8mm) on Multi-Layer And Region (37 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.033mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.033mm < 0.05mm) Between Pad UART1-4(66.08mm,32.8mm) on Multi-Layer And Region (37 hole(s)) Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.033mm]
+Rule Violations :3
 
 Processing Rule : Silk to Silk (Clearance=0.05mm) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.05mm) Between Arc (98.94mm,93.55mm) on Top Overlay And Text "DAC1" (88.909mm,89.599mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :1
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-Rule Violations :0
+   Violation between Net Antennae: Via (97.1mm,58.35mm) from Top Layer to Bottom Layer 
+Rule Violations :1
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 8
 Waived Violations : 0
 Time Elapsed        : 00:00:02

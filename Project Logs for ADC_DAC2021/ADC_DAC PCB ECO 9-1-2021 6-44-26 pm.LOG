@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=5VA Pin=C69-1
+Removed Pin From Net: NetName=AGND Pin=C69-2
+Removed Pin From Net: NetName=AGND Pin=C71-1
+Removed Pin From Net: NetName=5VA Pin=C71-2
+Removed Pin From Net: NetName=5VA Pin=R23-1
+Removed Pin From Net: NetName=5VA Pin=R25-1
+Removed Pin From Net: NetName=AGND Pin=U10-9
+Removed Pin From Net: NetName=AGND Pin=U10-15
+Removed Pin From Net: NetName=5VA Pin=U10-16
+Removed Pin From Net: NetName=AGND Pin=U11-9
+Removed Pin From Net: NetName=AGND Pin=U11-15
+Removed Pin From Net: NetName=5VA Pin=U11-16
+Added Component: Designator=L3(DR331-105BE)
+Added Pin To Net: NetName=AGND Pin=L3-3
+Added Pin To Net: NetName=5VA Pin=L3-4
+Added Pin To Net: NetName=NetC69_1 Pin=C69-1
+Added Pin To Net: NetName=NetC69_1 Pin=C71-2
+Added Pin To Net: NetName=NetC69_1 Pin=L3-1
+Added Pin To Net: NetName=NetC69_1 Pin=R23-1
+Added Pin To Net: NetName=NetC69_1 Pin=U10-16
+Added Net: Name=NetC69_1
+Added Pin To Net: NetName=NetC69_2 Pin=C69-2
+Added Pin To Net: NetName=NetC69_2 Pin=C71-1
+Added Pin To Net: NetName=NetC69_2 Pin=L3-2
+Added Pin To Net: NetName=NetC69_2 Pin=U10-9
+Added Pin To Net: NetName=NetC69_2 Pin=U10-15
+Added Pin To Net: NetName=NetC69_2 Pin=U11-9
+Added Pin To Net: NetName=NetC69_2 Pin=U11-15
+Added Net: Name=NetC69_2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U11-16
+Added Net: Name=NetR25_1
+Added Member To Class: ClassName=top Member=Component L3 DR331-105BE
