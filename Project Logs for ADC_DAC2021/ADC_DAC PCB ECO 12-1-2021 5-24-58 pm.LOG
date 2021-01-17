@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AGND Pin=H2-1
+Removed Pin From Net: NetName=NetD5_A Pin=H2-2
+Removed Member From Class: ClassName=U_Power Member=H2
+Added Component: Designator=H?(430450212)
+Added Pin To Net: NetName=AGND Pin=H?-1
+Added Pin To Net: NetName=NetD5_A Pin=H?-2
+Added Member To Class: ClassName=U_Power Member=Component H? Micro-Fit

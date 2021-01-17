@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=CAN2_H Pin=CAN2-2
+Removed Pin From Net: NetName=CAN2_L Pin=CAN2-3
+Removed Pin From Net: NetName=CAN2_H Pin=CAN2_-2
+Removed Pin From Net: NetName=CAN2_L Pin=CAN2_-3
+Removed Member From Class: ClassName=U_STM32F405 Member=CAN2_
+Change Component Footprint: Designator=CAN2 Old Footprint=1X4_HDR_2.00mm_PH New Footprint=HDR2X3_2.54MMP_RA
+Change Component Comment : Designator=CAN2 Old Comment=Header 4 New Comment=Header, 2x3-pin
+Change component parameters: Designator = "CAN2" ("CAN2"); Footprint = "1X4_HDR_2.00mm_PH"; UniqueID = "\KMKUNTFE\IXCLARCA" ("\KMKUNTFE\IXCLARCA")
+Added Component: Designator=U20(SOT23-3)
+Added Pin To Net: NetName=CAN2_H Pin=CAN2-3
+Added Pin To Net: NetName=CAN2_L Pin=CAN2-4
+Added Pin To Net: NetName=CAN2_L Pin=U20-1
+Added Pin To Net: NetName=CAN2_H Pin=U20-2
+Added Pin To Net: NetName=GND Pin=CAN2-2
+Added Pin To Net: NetName=GND Pin=CAN2-5
+Added Pin To Net: NetName=GND Pin=U20-3
+Added Net: Name=GND
+Added Member To Class: ClassName=U_Power Member=Component H2 Micro-Fit
+Added Member To Class: ClassName=U_STM32F405 Member=Component U20 PESD1CAN,215
