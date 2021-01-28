@@ -1,0 +1,2 @@
+RS pin not connected on DC motorboard and ADC board need to add pull down resistor in v1.0
+
